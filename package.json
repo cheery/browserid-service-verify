@@ -1,0 +1,17 @@
+{
+  "author": "Henri Tuhola <henri.tuhola@gmail.com> (boxbase.org)",
+  "name": "browserid-service-verify",
+  "description": "Verifies BrowserID assertion by using free verification service in browserid.org",
+  "version": "1.0.0",
+  "homepage": "browserid.org",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cheery/browserid-service-verify.git"
+  },
+  "main": "verify.js",
+  "engines": {
+    "node": "~0.6.14"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
