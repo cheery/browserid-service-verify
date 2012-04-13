@@ -1,5 +1,7 @@
 This library makes deploying BrowserID easy in node.js projects.
 
+Plain standalone browserid verifier will be better method to implement BrowserID, but a stable one wasn't available when I wrote this library.
+
 The example should be clear enough, but API is so simple that I will describe it.
 
 
