@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cheery/browserid-service-verify.png)](http://travis-ci.org/cheery/browserid-service-verify)
 This library makes deploying BrowserID easy in node.js projects.
 
 Plain standalone browserid verifier will be better method to implement BrowserID, but a stable one wasn't available when I wrote this library.
